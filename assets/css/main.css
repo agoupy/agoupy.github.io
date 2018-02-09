@@ -1655,7 +1655,7 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/board.jpg");
+		background: url("../../images/board.jpg"); /* #CCE8F4 */
 		background-position: center center;
 		background-size: 100%; /*auto 100%;*/
 		background-repeat: no-repeat;
