@@ -1657,7 +1657,7 @@
 	#banner {
 		background: url("../../images/board.jpg"); /* #CCE8F4 */
 		background-position: center center;
-		background-size: 100% 100%; /*auto 100%;*/
+		background-size: 100% auto; /*auto 100%;*/
 		background-repeat: no-repeat;
 		text-align: center;
 	}
@@ -2160,6 +2160,7 @@
 			#banner {
 				padding: 6em 0;
 				margin: 3em 0 0 0;
+				background-size: 100% auto;
 			}
 
 		/* Intro */
@@ -2519,6 +2520,7 @@
 			#banner {
 				margin: 2em 0 4em 0 !important;
 				padding: 6em 0;
+				background-size: auto 100%;
 			}
 
 				#banner header {
