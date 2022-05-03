@@ -1130,7 +1130,7 @@
 	}
 
 	a {
-		color: #fc5c14;
+		color: #5d5d5d;
 		text-decoration: underline;
 	}
 
@@ -1445,7 +1445,7 @@
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #fc5c14;
+		background-color: #5d5d5d;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1460,7 +1460,7 @@
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #fc5c14;
+			border-left: solid 1.25em #5d5d5d;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
