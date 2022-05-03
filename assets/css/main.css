@@ -1882,7 +1882,7 @@
 
 			#header-wrapper {
 				background: url("../../images/logo_edf.png"); /* #CCE8F4 */
-				background-position: left 5% top 1em;
+				background-position: left 5% top 1.35em;
 				background-size:  169px 113px; /*auto 100%;*/
 				background-repeat: no-repeat;	
 				background-color: #ffffff;
