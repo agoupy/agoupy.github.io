@@ -1904,10 +1904,6 @@
 		/* Header */
 
 			#header {
-				background: url("../../images/logo_edf.png"); /* #CCE8F4 */
-				background-position: left 5% bottom 85%;
-				background-size: 100% auto; /*auto 100%;*/
-				background-repeat: no-repeat;
 				text-align: center;
 			}
 
@@ -1924,6 +1920,10 @@
 
 			#nav > ul {
 				margin: 0;
+				background: url("../../images/logo_edf.png"); /* #CCE8F4 */
+				background-position: left 5% bottom 85%;
+				background-size: 100% auto; /*auto 100%;*/
+				background-repeat: no-repeat;
 			}
 
 				#nav > ul > li {
