@@ -1656,7 +1656,7 @@
 
 	#banner {
 		background: url("../../images/eoliennes.jpeg"); /* #CCE8F4 */
-		background-position: right 50% bottom 15%;
+		background-position: right 50% bottom 85%;
 		background-size: 100% auto; /*auto 100%;*/
 		background-repeat: no-repeat;
 		text-align: center;
@@ -1904,8 +1904,11 @@
 		/* Header */
 
 			#header {
+				background: url("../../images/logo_edf.png"); /* #CCE8F4 */
+				background-position: left 5% bottom 85%;
+				background-size: 100% auto; /*auto 100%;*/
+				background-repeat: no-repeat;
 				text-align: center;
-				background: url("../../images/logo_edf.png");
 			}
 
 				#header h1 {
