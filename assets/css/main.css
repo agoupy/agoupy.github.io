@@ -1656,7 +1656,7 @@
 
 	#banner {
 		background: url("../../images/eoliennes.jpeg"); /* #CCE8F4 */
-		background-position: right 50% bottom 45%;
+		background-position: right 50% bottom 15%;
 		background-size: 100% auto; /*auto 100%;*/
 		background-repeat: no-repeat;
 		text-align: center;
