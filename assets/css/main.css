@@ -1918,8 +1918,8 @@
 			
 			#nav{
 				background: url("../../images/logo_edf.png"); /* #CCE8F4 */
-				background-position: left 5% bottom 85%;
-				background-size: 169px 113px; /*auto 100%;*/
+				background-position: left 5% bottom 50%;
+				background-size: cover; /*auto 100%;*/
 				background-repeat: no-repeat;	
 			}
 
