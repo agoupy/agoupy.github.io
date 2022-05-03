@@ -1655,7 +1655,7 @@
 /* Banner */
 
 	#banner {
-		background: url("../../images/board.jpg"); /* #CCE8F4 */
+		background: url("../../images/eoliennes.jpg"); /* #CCE8F4 */
 		background-position: center center;
 		background-size: 100% auto; /*auto 100%;*/
 		background-repeat: no-repeat;
@@ -1673,7 +1673,7 @@
 			}
 
 			#banner header p {
-				color: #fe5815;
+				color: #ffffff;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
