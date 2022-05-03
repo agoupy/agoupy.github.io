@@ -1656,7 +1656,7 @@
 
 	#banner {
 		background: url("../../images/eoliennes.jpeg"); /* #CCE8F4 */
-		background-position: right 50% bottom 80%;
+		background-position: right 50% bottom 70%;
 		background-size: 100% auto; /*auto 100%;*/
 		background-repeat: no-repeat;
 		text-align: center;
@@ -1913,10 +1913,6 @@
 					font-size: 2.5em;
 					letter-spacing: -0.035em;
 					margin: 0 0 1em 0;
-					background: url("../../images/logo_edf.png"); /* #CCE8F4 */
-					background-position: left 5% bottom 85%;
-					background-size: 169px 113px; /*auto 100%;*/
-					background-repeat: no-repeat;
 				}
 
 		/* Nav */
@@ -1930,6 +1926,10 @@
 					display: inline-block;
 					font-style: italic;
 					margin: 0 0.35em 0 0;
+					background: url("../../images/logo_edf.png"); /* #CCE8F4 */
+					background-position: left 5% bottom 85%;
+					background-size: 169px 113px; /*auto 100%;*/
+					background-repeat: no-repeat;
 				}
 
 					#nav > ul > li > ul {
